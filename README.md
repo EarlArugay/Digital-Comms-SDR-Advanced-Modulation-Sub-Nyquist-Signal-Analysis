@@ -1,0 +1,2 @@
+# Digital-Comms-SDR-Advanced-Modulation-Sub-Nyquist-Signal-Analysis
+This repository documents experiments in Digital Communication Systems and Software-Defined Radio (SDR). It explores passband modulation using Shift Keying techniques, DSSS for interference resistance, and undersampling in SDR. Modules include hardware results, mathematical analysis, and evaluations of bandwidth and BER performance.
