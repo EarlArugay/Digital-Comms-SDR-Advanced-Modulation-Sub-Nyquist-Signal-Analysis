@@ -78,6 +78,7 @@ To restore the digital bitstream at the receiver, a three-stage demodulation cha
 *Figure 1.11: Signal Generated using ASK with higher frequency.*
 
 ![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE6.png)
+
 *Figure 1.12: Demodulated ASK Signal.*
 
 ![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE8.png)
