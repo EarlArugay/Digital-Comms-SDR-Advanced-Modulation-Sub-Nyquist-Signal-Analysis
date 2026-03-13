@@ -109,7 +109,7 @@ Demodulation was achieved using a Zero-Crossing Detector (ZCD) approach:
 
 *Figure 2.1: Generating FSK Signal Setup.*
 
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
+![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4711.jpg)
 
 *Figure 2.2: Generating FSK Signal Diagram.*
 
