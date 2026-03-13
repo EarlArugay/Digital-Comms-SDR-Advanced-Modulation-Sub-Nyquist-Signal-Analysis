@@ -27,21 +27,21 @@ To restore the digital bitstream at the receiver, a three-stage demodulation cha
 <summary>View Part A - 1 diagrams</summary>
 
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4696.jpg)
-*Figure 3.4.1: Generating ASK Signal Setup.*
+*Figure 1.1: Generating ASK Signal Setup.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4697.jpg)
-*Figure 3.4.2: Generating ASK Signal Diagram.*
+*Figure 1.2: Generating ASK Signal Diagram.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4699.jpg)
-*Figure 3.4.3: Generating ASK Signal Setup 2.*
+*Figure 1.3: Generating ASK Signal Setup 2.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4699(1)(1).jpg)
-*Figure 3.4.4: Generating ASK Signal Diagram 2.*
+*Figure 1.4: Generating ASK Signal Diagram 2.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4701(1).jpg)
-*Figure 3.4.5: Demodulating ASK Signal Setup.*
+*Figure 1.5: Demodulating ASK Signal Setup.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4702(1).jpg)
-*Figure 3.4.6: Demodulating ASK Signal Diagram.*
+*Figure 1.6: Demodulating ASK Signal Diagram.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4703(1).jpg)
-*Figure 3.4.7: Restoring recovered ASK Signal Setup.*
+*Figure 1.7: Restoring recovered ASK Signal Setup.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4703(1)(1).jpg)
-*Figure 3.4.8: Restoring recovered ASK Signal Diagram.*
+*Figure 1.8: Restoring recovered ASK Signal Diagram.*
 
 
 </details>
@@ -50,12 +50,25 @@ To restore the digital bitstream at the receiver, a three-stage demodulation cha
 <details>
 <summary>View Part A - 1 Documentation</summary>
 
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE3(LOGIC0-LOW).png)
+
+*Figure 1.9: Signal Generated using ASK.*
+
+![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE3(LOGIC1-HIGH).png)
+
+*Figure 1.10: Signal Generated using ASK.*
+
+![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE4.png)
+
+*Figure 1.11: Signal Generated using ASK with higher frequency.*
+
+![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE6.png)
+*Figure 1.12: Demodulated ASK Signal.*
+
+![Calibration Waveform](Waveform_Captures/Digital_Passband_Modulation_ASK&FSK/FIGURE8.png)
+
+*Figure 1.13: Restoring recovered ASK Signal.*
+
 
 </details>
 
@@ -77,17 +90,17 @@ Demodulation was achieved using a Zero-Crossing Detector (ZCD) approach:
 <summary>View Part A - 2 diagrams</summary>
 
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4710.jpg)
-*Figure 3.4.1: Generating FSK Signal Setup.*
+*Figure 2.1: Generating FSK Signal Setup.*
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.4.2: Generating FSK Signal Diagram.*
+*Figure 2.2: Generating FSK Signal Diagram.*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4713(1).jpg)
-*Figure 3.4.3: Demodulating FSK Signal Setup .*
+*Figure 2.3: Demodulating FSK Signal Setup .*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4713.jpg)
-*Figure 3.4.4: Demodulating FSK Signal Diagram .*
+*Figure 2.4: Demodulating FSK Signal Diagram .*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4716(1).jpg)
-*Figure 3.4.5: Restoring recovered FSK Signal Setup .*
+*Figure 2.5: Restoring recovered FSK Signal Setup .*
 ![Calibration Waveform](Diagrams/Digital-Pass-and-Modulation-ASK&FSK/IMG_4716.jpg)
-*Figure 3.4.6: Restoring recovered FSK Signal Diagram .*
+*Figure 2.6: Restoring recovered FSK Signal Diagram .*
 
 </details>
 
@@ -96,11 +109,11 @@ Demodulation was achieved using a Zero-Crossing Detector (ZCD) approach:
 <summary>View Part A - 2 Documentation</summary>
 
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
+*Figure 2.7: Internal CAL signal showing the verified 1Vp-p square wave.*
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
+*Figure 2.8: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+*Figure 2.9: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
 
 </details>
 
@@ -123,17 +136,17 @@ Because the envelope of a BPSK signal is constant, traditional asynchronous dete
 <summary>View Part B - 1 diagrams</summary>
 
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4721(1).jpg)
-*Figure 3.4.1: Generating a BPSK Signal Setup.*
+*Figure 1.1: Generating a BPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4721.jpg)
-*Figure 3.4.2: Generating a BPSK Signal Diagram.*
+*Figure 1.2: Generating a BPSK Signal Diagram.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4723.jpg)
-*Figure 3.4.1: Demodulating a BPSK Signal Setup.*
+*Figure 1.3: Demodulating a BPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4724.jpg)
-*Figure 3.4.2: Demodulating a BPSK Signal Diagram.*
+*Figure 1.4: Demodulating a BPSK Signal Diagram.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4725(1).jpg)
-*Figure 3.4.1: Restoring recovered a BPSK Signal Setup.*
+*Figure 1.5: Restoring recovered a BPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4725(1).jpg)
-*Figure 3.4.2: Restoring recovered a BPSK Signal Diagram.*
+*Figure 1.6: Restoring recovered a BPSK Signal Diagram.*
 
 
 </details>
@@ -142,12 +155,14 @@ Because the envelope of a BPSK signal is constant, traditional asynchronous dete
 <details>
 <summary>View Part B - 1 Documentation</summary>
 
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/PART-A-fig2.png)
+*Figure 1.7: Generating BPSK Signal*
+
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/PART-B-fig4.png)
+*Figure 1.8: Demodulated BPSK Signal.*
+
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/PART-C-fig6.png)
+*Figure 1.9: Restoring Demodulated BPSK Signal.*
 
 </details>
 
@@ -170,29 +185,29 @@ Because I and Q components are orthogonal, they are recovered independently:
 <summary>View Part B - 2 diagrams</summary>
 
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4733.jpg)
-*Figure 3.4.1: Generating QPSK Signal Setup.*
+*Figure 2.1: Generating QPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4734.jpg)
-*Figure 3.4.2: Generating QPSK Signal Setup.*
+*Figure 2.2: Generating QPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4735.jpg)
-*Figure 3.4.1: Generating QPSK Signal Setup 2.*
+*Figure 2.3: Generating QPSK Signal Setup 2.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4736.jpg)
-*Figure 3.4.2: Generating QPSK Signal Setup 2.*
+*Figure 2.4: Generating QPSK Signal Setup 2.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4737(1).jpg)
-*Figure 3.4.1: Generating QPSK Signal Setup 3.*
+*Figure 2.5: Generating QPSK Signal Setup 3.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4737.jpg)
-*Figure 3.4.2: Generating QPSK Signal Setup 3.*
+*Figure 2.6: Generating QPSK Signal Setup 3.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4738.jpg)
-*Figure 3.4.1: Generating QPSK Signal Setup 4.*
+*Figure 2.7: Generating QPSK Signal Setup 4.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4739.jpg)
-*Figure 3.4.2: Generating QPSK Signal Setup 4.*
+*Figure 2.8: Generating QPSK Signal Setup 4.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4741.jpg)
-*Figure 3.4.1: Picking out one of QPSK Signal Setup.*
+*Figure 2.9: Picking out one of QPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4742.jpg)
-*Figure 3.4.2: Picking out one of QPSK Signal Setup.*
+*Figure 2.10: Picking out one of QPSK Signal Setup.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4743(1).jpg)
-*Figure 3.4.1: Picking out one of QPSK Signal Setup 2.*
+*Figure 2.11: Picking out one of QPSK Signal Setup 2.*
 ![Calibration Waveform](Diagrams/Phase-Shift-Keying-BPSK&QPSK/IMG_4743.jpg)
-*Figure 3.4.2: Picking out one of QPSK Signal Setup 2.*
+*Figure 2.12: Picking out one of QPSK Signal Setup 2.*
 
 
 </details>
@@ -201,12 +216,18 @@ Because I and Q components are orthogonal, they are recovered independently:
 <details>
 <summary>View Part B - 2 Documentation</summary>
 
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043043.png)
+*Figure 2.13: Generating a QPSK Signal 1.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043056.png)
+*Figure 2.14: Generating a QPSK Signal 2.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043102.png)
+*Figure 2.15: Generating a QPSK Signal 3.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043109.png)
+*Figure 2.16: Generating a QPSK Signal 4.*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043114.png)
+*Figure 2.17: Using phase discrimination to pick out one of the signals (0 degrees phaseshift).*
+![Calibration Waveform](Waveform_Captures/Phase_Shift_Keying_BPSK&QPSK/Screenshot2026-03-11043120.png)
+*Figure 2.18: Using phase discrimination to pick out one of the signals (180 degrees phaseshift).*
 
 </details>
 
@@ -232,17 +253,17 @@ Recovery of the original data requires a process known as Correlation:
 <summary>View Part C diagrams</summary>
 
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4749.jpg)
-*Figure 3.4.1: Generating DSSS Signal Setup.*
+*Figure 1.1: Generating DSSS Signal Setup.*
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4750.jpg)
-*Figure 3.4.2: Generating DSSS Signal Setup.*
+*Figure 1.2: Generating DSSS Signal Setup.*
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4754.jpg)
-*Figure 3.4.1: Using Product Detector to recover the message Setup.*
+*Figure 1.3: Using Product Detector to recover the message Setup.*
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4755.jpg)
-*Figure 3.4.2: Using Product Detector to recover the message Diagram.*
+*Figure 1.4: Using Product Detector to recover the message Diagram.*
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4758.jpg)
-*Figure 3.4.1: DSSS and Deliberate interference Setup.*
+*Figure 1.5: DSSS and Deliberate interference Setup.*
 ![Calibration Waveform](Diagrams/Direct-Sequence-Spread-Spectrum-DSSS/IMG_4761.jpg)
-*Figure 3.4.2: DSSS and Deliberate interference Setup 2.*
+*Figure 1.6: DSSS and Deliberate interference Setup 2.*
 
 
 </details>
@@ -251,12 +272,17 @@ Recovery of the original data requires a process known as Correlation:
 <details>
 <summary>View Part C Documentation</summary>
 
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
-![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+![Calibration Waveform](Waveform_Captures/Direct_Sequence_Spread_Spectrum_DSSS/FIG1.png)
+*Figure 1.7: Generating DSSS Signal.*
+![Calibration Waveform](Waveform_Captures/Direct_Sequence_Spread_Spectrum_DSSS/fig4.png)
+*Figure 1.8: Recovering the message using product detector.*
+![Calibration Waveform](Waveform_Captures/Direct_Sequence_Spread_Spectrum_DSSS/fig7.png)
+*Figure 1.9: Recovering the message using product detector.*
+![Calibration Waveform](Waveform_Captures/Direct_Sequence_Spread_Spectrum_DSSS/fig8.png)
+*Figure 1.10: DSSS and deliberate interference.*
+![Calibration Waveform](Waveform_Captures/Direct_Sequence_Spread_Spectrum_DSSS/fig10(1).png)
+*Figure 1.11: DSSS and deliberate interference.*
+
 
 </details>
 
@@ -278,15 +304,15 @@ Once the signal is undersampled and held, it is passed through an Analog-to-Digi
 <summary>View Part D diagrams</summary>
 
 ![Calibration Waveform](Diagrams/SDR&Undersampling/IMG_4767(1).jpg)
-*Figure 3.4.1: Setting up a limmited bandwidth signal Setup.*
+*Figure 1.1: Setting up a limmited bandwidth signal Setup.*
 ![Calibration Waveform](Diagrams/SDR&Undersampling/IMG_4767.jpg)
-*Figure 3.4.2: Setting up a limmited bandwidth signal Setup.*
+*Figure 1.2: Setting up a limmited bandwidth signal Setup.*
 ![Calibration Waveform](Diagrams/SDR&Undersampling/IMG_4771.jpg)
-*Figure 3.4.1: Direct down conversion using sampling Setup.*
+*Figure 1.3: Direct down conversion using sampling Setup.*
 ![Calibration Waveform](Diagrams/SDR&Undersampling/IMG_4771(1).jpg)
-*Figure 3.4.2:  Direct down conversion using sampling Setup.*
+*Figure 1.4:  Direct down conversion using sampling Setup.*
 ![Calibration Waveform](Diagrams/SDR&Undersampling/IMG_4774.jpg)
-*Figure 3.4.1: Synchronization Setup.*
+*Figure 1.5: Synchronization Setup.*
 
 
 
@@ -297,11 +323,11 @@ Once the signal is undersampled and held, it is passed through an Analog-to-Digi
 <summary>View Part D Documentation</summary>
 
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig4.jpeg)
-*Figure 3.5.1: Internal CAL signal showing the verified 1Vp-p square wave.*
+*Figure 1.6: Internal CAL signal showing the verified 1Vp-p square wave.*
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig5.jpeg)
-*Figure 3.5.2: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
+*Figure 1.7: Internal CAL signal showing the square wave with 1khz frequency and 1ms period.*
 ![Calibration Waveform](Waveform_Captures/Part1_Results/Part1_resultfig6.jpeg)
-*Figure 3.5.3: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
+*Figure 1.8: Internal CAL signal showing the square wave with 1khz frequency and 1ms period zoomed in for manual computation.*
 
 </details>
 
